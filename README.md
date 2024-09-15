@@ -1,6 +1,6 @@
 ## Olá, pessoal! 👋 Esse é o primeiro arquivo que criei no GitHub!
-
-### Esse arquivo mostra algumas características minhas e, que talvez possa te ajudar em saber como sou.
+### Esse arquivo aparece logo ao acessar o Perfil principal.
+### Esse arquivo mostra algumas características minhas e, que talvez possa te ajudar em saber como sou:
 
 - Estou aprendendo os métodos de testes de software e programação em sistemas embarcados.
 - Ainda não tenho experiência profissional, apesar de ter estagiado no ramo de manutenção de computadores.
